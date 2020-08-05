@@ -1,0 +1,22 @@
+{
+  "name": "coin-toss-twitter-bot",
+  "version": "1.0.0",
+  "description": "A twitter bot that tweets the results of a coin toss (heads or tails) at specific intervals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malavikasmenon/coin-toss-twitter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malavikasmenon/coin-toss-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/malavikasmenon/coin-toss-twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
